@@ -43,4 +43,4 @@
 ### 📫 Contact Me
 
 - ✉️ Email: *dangxuanhuyen2005@gmail.com*
-- 💼 LinkedIn: https://www.linkedin.com/in/dang-xuan-huyen-75bb3030b/
+- 💼 LinkedIn: www.linkedin.com/in/dang-xuan-huyen
