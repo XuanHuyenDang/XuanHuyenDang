@@ -33,13 +33,6 @@
 
 ---
 
-
-### 📈 GitHub Stats
-
-![Huyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanHuyenDang&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanHuyenDang&layout=compact&theme=tokyonight)
-
 ### 📫 Contact Me
 
 - ✉️ Email: *dangxuanhuyen2005@gmail.com*
