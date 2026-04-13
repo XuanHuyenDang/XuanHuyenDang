@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Huyen Dang
 
-🎓 I'm an Information Technology student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, passionate about:
-- 📊 Business Analysis  
-- 🌐 Web Development  
+🎓 I'm an Information Technology student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**, passionate about:
+- 📊 Business Analysis / Data Analysis 
+- 🌐 Web Design
 - 💻 Application Development
 ---
 
